@@ -6,4 +6,4 @@ You can add all of your tasks and easily manage them by assigning them with diff
 
 ### Contact
 
-If you are interested or have any questions, feel welcome to [email](jiashengz@berkeley.edu) me. 
+If you are interested or have any questions, feel welcome to email me at jiashengz@berkeley.edu
